@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602961600 source:c:\users\federico landini\desktop\calcolo pi greco\main.c
+	<stdio.h>
+	<stdlib.h>
+

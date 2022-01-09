@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603503156 source:c:\users\federico landini\desktop\stampa inversa di lista rec\main.c
+	<stdio.h>
+	<stdlib.h>
+

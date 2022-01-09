@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602782919 source:c:\users\federico landini\desktop\sotto successione\main.c
+	<stdio.h>
+	<stdlib.h>
+

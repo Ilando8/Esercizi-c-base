@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602785219 source:c:\users\federico landini\desktop\successione di fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+

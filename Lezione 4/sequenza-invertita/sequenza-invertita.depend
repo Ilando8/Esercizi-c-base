@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602779242 source:c:\users\federico landini\desktop\sequenza-invertita\main.c
+	<stdio.h>
+	<stdlib.h>
+

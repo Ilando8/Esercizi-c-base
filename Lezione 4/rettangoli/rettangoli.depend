@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602949438 source:c:\users\federico landini\desktop\rettangoli\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602948665 source:c:\users\federico landini\desktop\funzione multipli\main.c
+	<stdio.h>
+	<stdlib.h>
+

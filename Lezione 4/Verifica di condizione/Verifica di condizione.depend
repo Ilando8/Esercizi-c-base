@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602781422 source:c:\users\federico landini\desktop\verifica di condizione\main.c
+	<stdio.h>
+	<stdlib.h>
+
